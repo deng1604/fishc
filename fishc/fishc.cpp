@@ -32,7 +32,7 @@ public:
             for (int j = 0; j < vertexNum; j++)
             {
                 arc[i][j] = 0;
-            }
+            }//
         }
 
         // 3.依次输入每一条边依附的两个顶点的编号
